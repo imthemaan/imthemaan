@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @imthemaan
+- 👀 I’m interested in Deeplearning application and image processing
+- 🌱 I’m currently studing at Centrale Digital Lab in Lyon (France)
+- 💞️ I’m looking to collaborate on image processing using DL or AI
+- 📫 How to reach me : My Github acount or 
